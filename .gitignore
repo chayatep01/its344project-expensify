@@ -4,3 +4,6 @@ public/bundle.jsmap
 
 public/stlyes.css
 public/stlyes.css.map
+
+.env.test
+.env.development
